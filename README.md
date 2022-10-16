@@ -1,5 +1,6 @@
 # roller
 맡은 화면에서 롤러가 있음
+![image](https://user-images.githubusercontent.com/28638438/196040546-314da930-4228-485e-a7ea-ddba24499a5e.png)
 
 ## 간략 사용법
 > 실제 코드로 사용하지는 말고, 샘플은 index.html열어라
